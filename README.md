@@ -30,7 +30,7 @@ Alternatywnie: dowolny kompilator C (np. gcc) i środowisko IDE (VS Code, CLion,
 
 Sklonuj repozytorium:
 
-git clone https://github.com/<twoja_nazwa>/<repozytorium>.git
+git clone 
 
 
 Otwórz wybrany notatnik .ipynb w Google Colab:
