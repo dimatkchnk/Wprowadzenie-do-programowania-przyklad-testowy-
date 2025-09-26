@@ -3,10 +3,10 @@ Materiały dydaktyczne do przedmiotu Wprowadzenie do programowania dla sem. 1 ki
 
 Repozytorium zawiera materiały dydaktyczne do kursu „Wprowadzenie do programowania”.
 
-📂 ** Zawartość repozytorium**
+📂 **Zawartość repozytorium**
 
 - Wykłady – materiały w formie notatników Jupyter (.ipynb) przygotowanych do uruchamiania na Google Colab.
-Każdy wykład zawiera:
+Wykłady zawierają:
 
 📘 część teoretyczną (slajdowe wprowadzenia, wyjaśnienia),
 
@@ -16,7 +16,6 @@ Każdy wykład zawiera:
 
 - Kody źródłowe – wyodrębnione pliki .c z przykładami z wykładów.
 
-- Materiały dodatkowe – linki, grafiki i krótkie ciekawostki dla studentów (np. związane z historią języka C czy zastosowaniami).
 
 🔧 **Wymagania**
 
