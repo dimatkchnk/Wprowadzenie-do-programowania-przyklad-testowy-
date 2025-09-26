@@ -30,7 +30,7 @@ Alternatywnie: dowolny kompilator C (np. gcc) i środowisko IDE (VS Code, CLion,
 
 Sklonuj repozytorium:
 
-git clone 
+git clone https://github.com/PG-KIB/Wprowadzenie-do-programowania.git
 
 
 Otwórz wybrany notatnik .ipynb w Google Colab:
