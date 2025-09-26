@@ -3,7 +3,7 @@ Materiały dydaktyczne do przedmiotu Wprowadzenie do programowania dla sem. 1 ki
 
 Repozytorium zawiera materiały dydaktyczne do kursu „Wprowadzenie do programowania”.
 
-📂 # Zawartość repozytorium
+📂 ** Zawartość repozytorium**
 
 - Wykłady – materiały w formie notatników Jupyter (.ipynb) przygotowanych do uruchamiania na Google Colab.
 Każdy wykład zawiera:
@@ -18,7 +18,7 @@ Każdy wykład zawiera:
 
 - Materiały dodatkowe – linki, grafiki i krótkie ciekawostki dla studentów (np. związane z historią języka C czy zastosowaniami).
 
-🔧 Wymagania
+🔧 **Wymagania**
 
 Do uruchamiania przykładów kodu:
 
@@ -26,7 +26,7 @@ Google Colab (zalecane) – wystarczy otworzyć notatnik .ipynb i uruchamiać ko
 
 Alternatywnie: dowolny kompilator C (np. gcc) i środowisko IDE (VS Code, CLion, Code::Blocks).
 
-🚀 Jak korzystać
+🚀 **Jak korzystać**
 
 Sklonuj repozytorium:
 
@@ -43,7 +43,7 @@ uruchamiaj kolejne komórki z kodem.
 
 Własne modyfikacje możesz zapisywać w swojej kopii na Google Drive lub w forku repozytorium.
 
-📅 Plan kursu
+📅 **Plan kursu**
 
 Rozwiązywanie problemów przez programowanie
 
